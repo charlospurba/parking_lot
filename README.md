@@ -8,10 +8,12 @@ This is a Go-based automated parking lot ticketing system that manages parking s
 
 ## Directory Structure
 
+```
 parking_lot/
-├── main.go # Main application logic
-├── input.txt # Sample input commands
-└── README.md # Project documentation
+├── main.go       # Main application logic
+├── input.txt     # Sample input commands
+└── README.md     # Project documentation
+```
 
 ## How to Run
 
