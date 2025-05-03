@@ -23,3 +23,7 @@ parking_lot/
    ```bash
    go run main.go input.txt
    ```
+
+## Output
+
+![alt text](image.png)
